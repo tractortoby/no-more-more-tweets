@@ -1,5 +1,5 @@
 ## No more "More Tweets" by adding question mark
-By adding a question mark to the end of the Twitter URL, you can avoid seeing the "More Tweets" message.
+By adding a question mark to the end of the Twitter URL on an individual tweet, you can avoid seeing the "More Tweets" message.
 
 ### before
 ![before](https://raw.githubusercontent.com/tractortoby/no-more-more-tweets/main/before.jpg)
