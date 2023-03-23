@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         No more "More Tweets" by adding question mark
 // @namespace    https://github.com/tractortoby/no-more-more-tweets
-// @version      0.4
-// @description  By adding a question mark to the end of the Twitter URL, you can avoid seeing the "More Tweets" message.
+// @version      0.5
+// @description  By adding a question mark to the end of the Twitter URL on an individual tweet, you can avoid seeing the "More Tweets" message.
 // @author       https://twitter.com/runningtractor
 // @icon         https://raw.githubusercontent.com/tractortoby/no-more-more-tweets/main/runningtractor.png
 // @grant        none
