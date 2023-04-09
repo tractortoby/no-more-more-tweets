@@ -9,6 +9,7 @@
 // @license      MIT
 // @run-at       document-idle
 // @match        *://twitter.com/*/status/*
+// @match        *://mobile.twitter.com/*/status/*
 // @exclude      *://twitter.com/settings/*
 // @exclude      *://twitter.com/*/status/*/photo/*
 // @exclude      *://twitter.com/*/status/*/video/*
